@@ -1,0 +1,332 @@
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\roslyn\csc.exe
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\roslyn\vbc.exe
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Antlr3.Runtime.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\EntityFramework.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\EntityFramework.SqlServer.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.Security.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Newtonsoft.Json.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Owin.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\System.Web.Optimization.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\System.Web.Providers.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\WebGrease.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\System.Web.Optimization.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Antlr3.Runtime.pdb
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Newtonsoft.Json.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\EntityFramework.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\EntityFramework.SqlServer.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\System.Web.Providers.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.Security.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+c:\users\amarimek\documents\visual studio 2015\Projects\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\roslyn\csc.exe
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\roslyn\vbc.exe
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\EntityFramework.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Owin.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\System.Web.Providers.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\WebGrease.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\EntityFramework.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\System.Web.Providers.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+C:\Users\peddi\Pictures\LibraryManagementSystem_Project\Library Management Student\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\roslyn\csc.exe
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\roslyn\vbc.exe
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\EntityFramework.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Owin.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\System.Web.Providers.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\WebGrease.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\EntityFramework.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\System.Web.Providers.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+C:\Users\amarimek\Pictures\Library\Library Management Student\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\roslyn\csc.exe
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\roslyn\vbc.exe
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\EntityFramework.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Owin.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\System.Web.Providers.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\WebGrease.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\EntityFramework.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\System.Web.Providers.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\nitin\Desktop\New folder\Library Management Student\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\roslyn\csc.exe
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\roslyn\vbc.exe
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\EntityFramework.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Owin.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\System.Web.Providers.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\WebGrease.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\EntityFramework.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\System.Web.Providers.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+C:\Users\nitin\Desktop\Library Management Student\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
