@@ -1,0 +1,6 @@
+C:\Users\peddi\Pictures\_3.0_latest_Libray\Library Management Student\MailGenarationService\bin\Release\MailGenarationService.pdb
+C:\Users\peddi\Pictures\_3.0_latest_Libray\Library Management Student\MailGenarationService\obj\Release\MailGenarationService.csprojResolveAssemblyReference.cache
+C:\Users\peddi\Pictures\_3.0_latest_Libray\Library Management Student\MailGenarationService\obj\Release\MailGenarationService.pdb
+C:\Users\peddi\Pictures\_3.0_latest_Libray\Library Management Student\MailGenarationService\bin\Release\MailGenarationService.dll.config
+C:\Users\peddi\Pictures\_3.0_latest_Libray\Library Management Student\MailGenarationService\bin\Release\MailGenarationService.dll
+C:\Users\peddi\Pictures\_3.0_latest_Libray\Library Management Student\MailGenarationService\obj\Release\MailGenarationService.dll

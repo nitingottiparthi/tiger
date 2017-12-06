@@ -1,0 +1,17 @@
+C:\Users\peddi\Pictures\_3.0_latest_Libray\Library Management Student\MailGenarationService\bin\Debug\MailGenarationService.dll.config
+C:\Users\peddi\Pictures\_3.0_latest_Libray\Library Management Student\MailGenarationService\bin\Debug\MailGenarationService.dll
+C:\Users\peddi\Pictures\_3.0_latest_Libray\Library Management Student\MailGenarationService\bin\Debug\MailGenarationService.pdb
+C:\Users\peddi\Pictures\_3.0_latest_Libray\Library Management Student\MailGenarationService\obj\Debug\MailGenarationService.csprojResolveAssemblyReference.cache
+C:\Users\peddi\Pictures\_3.0_latest_Libray\Library Management Student\MailGenarationService\obj\Debug\MailGenarationService.dll
+C:\Users\peddi\Pictures\_3.0_latest_Libray\Library Management Student\MailGenarationService\obj\Debug\MailGenarationService.pdb
+C:\Users\nitin\Desktop\_3.0_Libray\Library Management Student\MailGenarationService\bin\Debug\MailGenarationService.pdb
+C:\Users\nitin\Desktop\_3.0_Libray\Library Management Student\MailGenarationService\obj\Debug\MailGenarationService.csprojResolveAssemblyReference.cache
+C:\Users\nitin\Desktop\_3.0_Libray\Library Management Student\MailGenarationService\obj\Debug\MailGenarationService.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Desktop\_3.0_Libray\Library Management Student\MailGenarationService\obj\Debug\MailGenarationService.pdb
+C:\Users\nitin\Desktop\_3.0_Libray\Library Management Student\MailGenarationService\bin\Debug\MailGenarationService.exe.config
+C:\Users\nitin\Desktop\_3.0_Libray\Library Management Student\MailGenarationService\bin\Debug\MailGenarationService.exe.manifest
+C:\Users\nitin\Desktop\_3.0_Libray\Library Management Student\MailGenarationService\bin\Debug\MailGenarationService.application
+C:\Users\nitin\Desktop\_3.0_Libray\Library Management Student\MailGenarationService\bin\Debug\MailGenarationService.exe
+C:\Users\nitin\Desktop\_3.0_Libray\Library Management Student\MailGenarationService\obj\Debug\MailGenarationService.exe.manifest
+C:\Users\nitin\Desktop\_3.0_Libray\Library Management Student\MailGenarationService\obj\Debug\MailGenarationService.application
+C:\Users\nitin\Desktop\_3.0_Libray\Library Management Student\MailGenarationService\obj\Debug\MailGenarationService.exe
